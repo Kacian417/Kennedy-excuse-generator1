@@ -10,7 +10,7 @@ window.onload = function() {
   let firstWord = "The ";
   // array of parts of sentence
   let adjective = ["lonely ", "angry ", "slow ", "old ", "two-headed "];
-  let noun = ["jogger ", "dog ", "raccoon ", "grandma "];
+  let noun = ["jogger ", "dog ", "raccoon ", "grandma ", "woman ", "cat "];
   let action = [
     "threw my ",
     "burned the ",
@@ -19,7 +19,14 @@ window.onload = function() {
     "hid my ",
     "destroyed my "
   ];
-  let possession = ["luggage ", "biscuits ", "lamps ", "computer ", "phone "];
+  let possession = [
+    "luggage ",
+    "biscuits ",
+    "lamps ",
+    "computer ",
+    "phone ",
+    "water bottle "
+  ];
   let location = [
     "in the restrooom!",
     "at the bar!",
